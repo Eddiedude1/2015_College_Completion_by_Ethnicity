@@ -4,7 +4,7 @@ Due Date: November 29, 2017
 
 As you progress through the course, the projects are going to give way to working on your capstone. In preparation for this transition, each instructor has chosen a dataset for you to simply play around with and explore.
 
-From those three datasets, you'll choose one that is of interest to you. Use the skills you've learned up to this point (EDA, machine learning, etc), and see what you can come up with.
+From those three datasets, **you'll choose one** that is of interest to you. Use the skills you've learned up to this point (EDA, machine learning, etc), and see what you can come up with.
 
 Unlike the previous projects, this one is intentionally left open-ended; there are no specific questions for you to answer and no set path that you have to follow. We're excited to see where your curiosity takes you.
 
