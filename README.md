@@ -14,10 +14,28 @@ Here are the three datasets:
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## From Justin
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For this project you will assemble a dataset for investigating colleges and universities.  Fortunately, there is a large collection of higher education data from the government that is accessible through an API.  This service provides tons of data, from cost statistics to admission rates to instructional expenditures!
+
+The data spans a number of years and categories, so simply deciding what data you want to look at and how you want to analyze will take some time.
+
+A successful project will pull down data, perform thorough EDA and build *at least* one model.  (What you model is up to you, and remember that models can be predictive *or* inferential!).  You could also look at the possibility of clustering to identify different types of schools.
+
+> **Pro tip:** The rate limit is quite high for the API service, but it is still a good idea to cache your data to local file once you have retrieved it.  This allows you to reload your data faster and work offline, not to mention just playing "nice" with the API service.
+
+The main data documentation is available at [https://collegescorecard.ed.gov/data/documentation/](https://collegescorecard.ed.gov/data/documentation/). This page includes a detailed data dictionary as well as a couple of reports describing the data.  That page also links to the specific [API documentation](https://github.com/RTICWDT/open-data-maker/blob/master/API.md).
+
+To use the API you will need to signup for a (free) API key on [https://api.data.gov/docs/](https://api.data.gov/docs/).  This page also includes links describing [API key usage](https://api.data.gov/docs/api-key/) and [rate limits](https://api.data.gov/docs/rate-limits/).
 
 ## From Riley
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+If you're a fan of March Madness, this is the dataset for you! Every year, Kaggle hosts their "March Machine Learning Mania" competition, wherein you build a model to predict the winner of the NCAA men's basketball tournament. Last year, I finished in a respectable-yet-forgettable 57th place.
+
+It's never too early to start building your model. The data you'll be using is current through last year's season, and will be updated when next year's competition starts (late Jan/early Feb?).
+
+If you have a good workflow set up by then, all you'll need to do is download the latest CSVs and you'll be good to go!
+
+> **WARNING**: When predicting the outcome of a game, you can use stats that occur up to **but not including** that particular game. 
+
+https://www.kaggle.com/c/march-machine-learning-mania-2017/data
 
 ## Project Feedback + Evaluation
 
