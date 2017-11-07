@@ -11,7 +11,7 @@ Unlike the previous projects, this one is intentionally left open-ended; there a
 Here are the three datasets:
 
 ## From Richard
-We provide a collection of posts from reddit.com from numerous programming-focused subreddits. Your task is...to give us a model!
+I've provided a collection of posts from reddit.com from numerous programming-focused subreddits. Your task is...to give us a model!
 
 As Data Scientists, it is very frequently up to us to find an interesting questions and useful inferences from a body of data. Similar to our expectations for your Capstone Project, this is a situation where you will manage both the development of a question and your approach for modelling it.
 
