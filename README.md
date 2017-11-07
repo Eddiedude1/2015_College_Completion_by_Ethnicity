@@ -11,7 +11,11 @@ Unlike the previous projects, this one is intentionally left open-ended; there a
 Here are the three datasets:
 
 ## From Richard
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We provide a collection of posts from reddit.com from numerous programming-focused subreddits. Your task is...to give us a model!
+
+As Data Scientists, it is very frequently up to us to find an interesting questions and useful inferences from a body of data. Similar to our expectations for your Capstone Project, this is a situation where you will manage both the development of a question and your approach for modelling it.
+
+Within this directory you will find a csv containing all posts made to a specific set of subreddits (message boards) during the month of December, along with some additional data (the number of upvotes from the community, the number of comments made on the post, etc.) While reddit allows you to submit a link in place of text, this data has been subset to only self-posts (posts where the writer has submitted text instead of a link elsewhere).
 
 ## From Justin
 For this project you will assemble a dataset for investigating colleges and universities.  Fortunately, there is a large collection of higher education data from the government that is accessible through an API.  This service provides tons of data, from cost statistics to admission rates to instructional expenditures!
@@ -33,7 +37,7 @@ It's never too early to start building your model. The data you'll be using is c
 
 If you have a good workflow set up by then, all you'll need to do is download the latest CSVs and you'll be good to go!
 
-> **WARNING**: When predicting the outcome of a game, you can use stats that occur up to **but not including** that particular game. 
+> **WARNING**: When predicting the outcome of a game, you can use stats that occur up to **but not including** that particular game.
 
 https://www.kaggle.com/c/march-machine-learning-mania-2017/data
 
