@@ -1,4 +1,4 @@
-# Project 5 - 2015 College Completion by Ethnicity
+# 2015 College Completion by Ethnicity
 
 This project was the study of college completion by ethnicity for 2015 in the US.  Hierarchical clustering was used to study the grouping of ethnicities in this data.
 
